@@ -1,0 +1,27 @@
+﻿  ipa.cpp
+C:\Users\MrSuperBuddy\source\repos\ipa\ipa\ipa.cpp(160,7): warning C4552: "<": результат выражения не используется
+C:\Users\MrSuperBuddy\source\repos\ipa\ipa\ipa.cpp(170,10): warning C4552: "<": результат выражения не используется
+C:\Users\MrSuperBuddy\source\repos\ipa\ipa\ipa.cpp(175,10): warning C4552: "<": результат выражения не используется
+C:\Users\MrSuperBuddy\source\repos\ipa\ipa\ipa.cpp(351,31): warning C4244: +=: преобразование "COLORREF" в "BYTE", возможна потеря данных
+C:\Users\MrSuperBuddy\source\repos\ipa\ipa\ipa.cpp(365,10): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\MrSuperBuddy\source\repos\ipa\ipa\ipa.cpp(366,42): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\MrSuperBuddy\source\repos\ipa\ipa\ipa.cpp(366,18): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\MrSuperBuddy\source\repos\ipa\ipa\ipa.cpp(381,10): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\MrSuperBuddy\source\repos\ipa\ipa\ipa.cpp(382,42): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\MrSuperBuddy\source\repos\ipa\ipa\ipa.cpp(382,18): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\MrSuperBuddy\source\repos\ipa\ipa\ipa.cpp(397,10): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\MrSuperBuddy\source\repos\ipa\ipa\ipa.cpp(398,42): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\MrSuperBuddy\source\repos\ipa\ipa\ipa.cpp(398,18): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\MrSuperBuddy\source\repos\ipa\ipa\ipa.cpp(497,24): warning C4129: Y: неизвестная escape-последовательность
+C:\Users\MrSuperBuddy\source\repos\ipa\ipa\ipa.cpp(497,24): warning C4129: I: неизвестная escape-последовательность
+C:\Users\MrSuperBuddy\source\repos\ipa\ipa\ipa.cpp(497,24): warning C4129: C: неизвестная escape-последовательность
+C:\Users\MrSuperBuddy\source\repos\ipa\ipa\ipa.cpp(497,24): warning C4129: P: неизвестная escape-последовательность
+C:\Users\MrSuperBuddy\source\repos\ipa\ipa\ipa.cpp(503,25): warning C4129: Y: неизвестная escape-последовательность
+C:\Users\MrSuperBuddy\source\repos\ipa\ipa\ipa.cpp(503,25): warning C4129: I: неизвестная escape-последовательность
+C:\Users\MrSuperBuddy\source\repos\ipa\ipa\ipa.cpp(503,25): warning C4129: C: неизвестная escape-последовательность
+  Создание кода
+  Previous IPDB and IOBJ mismatch, fall back to full compilation.
+C:\Users\MrSuperBuddy\source\repos\ipa\ipa\ipa.cpp(184): warning C4715: Hue: значение возвращается не при всех путях выполнения
+  All 17 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Создание кода завершено
+  ipa.vcxproj -> C:\Users\MrSuperBuddy\source\repos\ipa\Release\ipa.exe

@@ -1,0 +1,24 @@
+﻿  ipa.peaceful.cpp
+C:\Users\MrSuperBuddy\source\repos\ipa.peaceful\ipa.peaceful\ipa.peaceful.cpp(160,7): warning C4552: "<": результат выражения не используется
+C:\Users\MrSuperBuddy\source\repos\ipa.peaceful\ipa.peaceful\ipa.peaceful.cpp(170,10): warning C4552: "<": результат выражения не используется
+C:\Users\MrSuperBuddy\source\repos\ipa.peaceful\ipa.peaceful\ipa.peaceful.cpp(175,10): warning C4552: "<": результат выражения не используется
+C:\Users\MrSuperBuddy\source\repos\ipa.peaceful\ipa.peaceful\ipa.peaceful.cpp(301,31): warning C4244: +=: преобразование "COLORREF" в "BYTE", возможна потеря данных
+C:\Users\MrSuperBuddy\source\repos\ipa.peaceful\ipa.peaceful\ipa.peaceful.cpp(315,10): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\MrSuperBuddy\source\repos\ipa.peaceful\ipa.peaceful\ipa.peaceful.cpp(316,42): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\MrSuperBuddy\source\repos\ipa.peaceful\ipa.peaceful\ipa.peaceful.cpp(316,18): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\MrSuperBuddy\source\repos\ipa.peaceful\ipa.peaceful\ipa.peaceful.cpp(331,10): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\MrSuperBuddy\source\repos\ipa.peaceful\ipa.peaceful\ipa.peaceful.cpp(332,42): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\MrSuperBuddy\source\repos\ipa.peaceful\ipa.peaceful\ipa.peaceful.cpp(332,18): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\MrSuperBuddy\source\repos\ipa.peaceful\ipa.peaceful\ipa.peaceful.cpp(347,10): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\MrSuperBuddy\source\repos\ipa.peaceful\ipa.peaceful\ipa.peaceful.cpp(348,42): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\MrSuperBuddy\source\repos\ipa.peaceful\ipa.peaceful\ipa.peaceful.cpp(348,18): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\MrSuperBuddy\source\repos\ipa.peaceful\ipa.peaceful\ipa.peaceful.cpp(447,24): warning C4129: Y: неизвестная escape-последовательность
+C:\Users\MrSuperBuddy\source\repos\ipa.peaceful\ipa.peaceful\ipa.peaceful.cpp(447,24): warning C4129: I: неизвестная escape-последовательность
+C:\Users\MrSuperBuddy\source\repos\ipa.peaceful\ipa.peaceful\ipa.peaceful.cpp(453,25): warning C4129: Y: неизвестная escape-последовательность
+C:\Users\MrSuperBuddy\source\repos\ipa.peaceful\ipa.peaceful\ipa.peaceful.cpp(453,25): warning C4129: I: неизвестная escape-последовательность
+  Создание кода
+  Previous IPDB not found, fall back to full compilation.
+C:\Users\MrSuperBuddy\source\repos\ipa.peaceful\ipa.peaceful\ipa.peaceful.cpp(184): warning C4715: Hue: значение возвращается не при всех путях выполнения
+  All 15 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Создание кода завершено
+  ipa.peaceful.vcxproj -> C:\Users\MrSuperBuddy\source\repos\ipa.peaceful\Release\ipa.peaceful.exe
